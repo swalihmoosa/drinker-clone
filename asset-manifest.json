@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/drinker-website/static/css/main.896d1432.chunk.css",
+    "main.js": "/drinker-website/static/js/main.0585d41d.chunk.js",
+    "main.js.map": "/drinker-website/static/js/main.0585d41d.chunk.js.map",
+    "runtime-main.js": "/drinker-website/static/js/runtime-main.4df1fe47.js",
+    "runtime-main.js.map": "/drinker-website/static/js/runtime-main.4df1fe47.js.map",
+    "static/css/2.4028230d.chunk.css": "/drinker-website/static/css/2.4028230d.chunk.css",
+    "static/js/2.61cd0c03.chunk.js": "/drinker-website/static/js/2.61cd0c03.chunk.js",
+    "static/js/2.61cd0c03.chunk.js.map": "/drinker-website/static/js/2.61cd0c03.chunk.js.map",
+    "static/js/3.fa301869.chunk.js": "/drinker-website/static/js/3.fa301869.chunk.js",
+    "static/js/3.fa301869.chunk.js.map": "/drinker-website/static/js/3.fa301869.chunk.js.map",
+    "index.html": "/drinker-website/index.html",
+    "static/css/2.4028230d.chunk.css.map": "/drinker-website/static/css/2.4028230d.chunk.css.map",
+    "static/css/main.896d1432.chunk.css.map": "/drinker-website/static/css/main.896d1432.chunk.css.map",
+    "static/js/2.61cd0c03.chunk.js.LICENSE.txt": "/drinker-website/static/js/2.61cd0c03.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/drinker-website/static/media/body_bg.026823d1.png",
+    "static/media/box_img.dddeb208.png": "/drinker-website/static/media/box_img.dddeb208.png",
+    "static/media/minus-circle-solid.a4fcf5b1.svg": "/drinker-website/static/media/minus-circle-solid.a4fcf5b1.svg",
+    "static/media/plan1.bd188324.png": "/drinker-website/static/media/plan1.bd188324.png",
+    "static/media/slick-theme.css": "/drinker-website/static/media/slick.c94f7671.ttf",
+    "static/media/store_img1.c63c65af.png": "/drinker-website/static/media/store_img1.c63c65af.png",
+    "static/media/store_img2.305967bf.png": "/drinker-website/static/media/store_img2.305967bf.png",
+    "static/media/store_img3.02a41045.png": "/drinker-website/static/media/store_img3.02a41045.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4df1fe47.js",
+    "static/css/2.4028230d.chunk.css",
+    "static/js/2.61cd0c03.chunk.js",
+    "static/css/main.896d1432.chunk.css",
+    "static/js/main.0585d41d.chunk.js"
+  ]
+}
